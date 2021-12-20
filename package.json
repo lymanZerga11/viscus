@@ -8,6 +8,8 @@
   "license": "AGPL-3.0-only",
   "private": false,
   "scripts": {
-
+    "compile": "nile compile",
+    "test": "pytest",
+    "deploy": "nile deploy amm --alias amm"
   }
 }
