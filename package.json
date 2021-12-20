@@ -1,0 +1,13 @@
+{
+  "name": "viscus",
+  "version": "1.0.0",
+  "description": "A minimalist starknet amm adapted from StarkWare's amm.",
+  "main": "index.js",
+  "repository": "https://github.com/a5f9t4/viscus.git",
+  "author": "Alucard <https://github.com/a5f9t4>",
+  "license": "AGPL-3.0-only",
+  "private": false,
+  "scripts": {
+
+  }
+}
